@@ -231,4 +231,4 @@ This repository serves as the official landing page for StarBurn. The software i
 **Get the most recent version of StarBurn today!**
 
 ---
-**Last updated:** 2026-09-15 14:41:58 UTC
+**Last updated:** 2026-09-15 18:45:26 UTC
